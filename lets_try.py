@@ -1,0 +1,3 @@
+def ciao(n):
+  for i in [1, 2, 3, 4]:
+    print(i, end=", ")
